@@ -5,7 +5,7 @@
 **Duration -** Nov to Dec 2024
 **Mentor -**
 
-## CODTECH-Task1
+# CODTECH-Task1
 ________________________________________
 Basic Calculator in Python 🧮
 This repository contains a simple Python program that functions as a basic calculator. The program is designed to provide an interactive and user-friendly experience for performing essential arithmetic operations.
