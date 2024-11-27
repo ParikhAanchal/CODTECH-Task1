@@ -1,9 +1,9 @@
-**Name -** Aanchal Parikh</br>
-**Company -** CODTECH IT SOLUTION
-**ID -** CT08DS10126
-**Domain -** Python
-**Duration -** Nov to Dec 2024
-**Mentor -**
+**Name -** Aanchal Parikh </br>
+**Company -** CODTECH IT SOLUTION </br>
+**ID -** CT08DS10126 </br>
+**Domain -** Python </br>
+**Duration -** Nov to Dec 2024 </br>
+**Mentor -** </br>
 
 # CODTECH-Task1
 ________________________________________
